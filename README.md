@@ -41,6 +41,7 @@ Scheduled data collection, processing, and storage systems with normalization an
 
 Upwork: https://www.upwork.com/freelancers/~01d1265e695021ec14  
 Linkedin: www.linkedin.com/in/sergio-serrano-ml
+
 Email: Sergioandreserrano@gmail.com
 
 ---
