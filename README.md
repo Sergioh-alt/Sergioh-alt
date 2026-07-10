@@ -63,7 +63,6 @@ Upwork: https://www.upwork.com/freelancers/~01d1265e695021ec14
 
 LinkedIn: https://www.linkedin.com/in/sergio-serrano-ml/
 
-Email: Sergioandreserrano@gmail.com
 
 ---
 
